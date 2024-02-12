@@ -94,7 +94,7 @@ def is_valid_json(request_json):
 
 
 
-# database modificaiton helper functions
+# database modification helper functions
 
 # adds new user to users database
 def add_user(user: User):
@@ -163,6 +163,8 @@ def delete_song_from_playlists(user_id, song_id):
         playlists_to_update_ids.append(playlist_id)
 
     return (len(playlists_to_update_ids), ', '.join(playlists_to_update_ids))
+
+
 
 # database retrieval helper functions
     

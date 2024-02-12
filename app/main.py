@@ -163,7 +163,7 @@ def update_playlist(user_id: str, password: str, playlist_id: str, new_playlist:
                     else:
                         if is_valid_playlist(new_playlist):
                             update_playlist_in_db(playlist_id, new_playlist)
-                            return f"Your playlist, originally with playlistID {playlist_id}, has been updated to new playlist with new playlistID {playlist_id}!"
+                            return f"Your playlist, originally with playlistID {playlist_id}, has been updated to a new playlist with new playlistID {playlist_id}!"
                         else:
                             error = 5
                 else:
