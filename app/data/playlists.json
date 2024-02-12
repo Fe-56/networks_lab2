@@ -1,3 +1,27 @@
 {
-  
+  "first": {
+    "playlistID": "first",
+    "title": "The 1st Playlist",
+    "description": "This is my first ever playlist",
+    "userID": "john_cena",
+    "dateTimeCreated": "2024-02-12T12:56:27.457426",
+    "dateTimeModified": null,
+    "songs": [
+      "numb",
+      "happy_ending"
+    ]
+  },
+  "good": {
+    "playlistID": "good",
+    "title": "Good Playlist",
+    "description": "This is a very very good playlist!",
+    "userID": "john_cena",
+    "dateTimeCreated": "2024-02-12T14:23:43.593717",
+    "dateTimeModified": null,
+    "songs": [
+      "numb",
+      "paranoid",
+      "master"
+    ]
+  }
 }

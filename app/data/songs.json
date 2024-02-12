@@ -1,3 +1,290 @@
 {
-  
+  "21_guns": {
+    "songID": "21_guns",
+    "title": "21 Guns",
+    "artist": "Green Day",
+    "album": "21st Century Breakdown"
+  },
+  "all_of_me": {
+    "songID": "all_of_me",
+    "title": "All of Me",
+    "artist": "John Legend",
+    "album": "Love in the Future"
+  },
+  "avalanche": {
+    "songID": "avalanche",
+    "title": "Avalanche",
+    "artist": "Avril Lavigne",
+    "album": "Love Sux"
+  },
+  "back_to_december": {
+    "songID": "back_to_december",
+    "title": "Back to December (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "album": "Speak Now (Taylor's Version)"
+  },
+  "bohemian": {
+    "songID": "bohemian_rhapsody",
+    "title": "Bohemian Rhapsody",
+    "artist": "Queen",
+    "album": "A Night At The Opera"
+  },
+  "boulevard": {
+    "songID": "boulevard",
+    "title": "Boulevard of Broken Dreams",
+    "artist": "Green Day",
+    "album": "American Idiot"
+  },
+  "call_me_maybe": {
+    "songID": "call_me_maybe",
+    "title": "Call Me Maybe",
+    "artist": "Carly Rae Jespen",
+    "album": "Kiss"
+  },
+  "chasing_cars": {
+    "songID": "chasing_cars",
+    "title": "Chasing Cars",
+    "artist": "Snow Patrol",
+    "album": "Eyes Open"
+  },
+  "counting_stars": {
+    "songID": "counting_stars",
+    "title": "Counting Stars",
+    "artist": "OneRepublic",
+    "album": "Native"
+  },
+  "crazy_train": {
+    "songID": "crazy_train",
+    "title": "Crazy Train",
+    "artist": "Ozzy Osbourne",
+    "album": "Blizzard of Ozz"
+  },
+  "creeping_death": {
+    "songID": "creeping_death",
+    "title": "Creeping Death",
+    "artist": "Metallica",
+    "album": "Ride The Lightning"
+  },
+  "diary_of_jane": {
+    "songID": "diary_of_jane",
+    "title": "The Diary of Jane",
+    "artist": "Breaking Benjamin",
+    "album": "Phobia"
+  },
+  "dont_tell_me": {
+    "songID": "dont_tell_me",
+    "title": "Don't Tell Me",
+    "artist": "Avril Lavigne",
+    "album": "Under My Skin"
+  },
+  "enter_sandman": {
+    "songID": "enter_sandman",
+    "title": "Enter Sandman",
+    "artist": "Metallica",
+    "album": "Metallica"
+  },
+  "faint": {
+    "songID": "faint",
+    "title": "Faint",
+    "artist": "Linkin Park",
+    "album": "Meteora"
+  },
+  "fix_you": {
+    "songID": "fix_you",
+    "title": "Fix You",
+    "artist": "Coldplay",
+    "album": "X&Y"
+  },
+  "from_the_inside": {
+    "songID": "from_the_inside",
+    "title": "From the Inside",
+    "artist": "Linkin Park",
+    "album": "Meteora"
+  },
+  "galway_girl": {
+    "songID": "galway_girl",
+    "title": "Galway Girl",
+    "artist": "Ed Sheeran",
+    "album": "÷"
+  },
+  "hail_to_the_king": {
+    "songID": "hail_to_the_king",
+    "title": "Hail to the King",
+    "artist": "Avenged Sevenfold",
+    "album": "Hail to the King"
+  },
+  "hello": {
+    "songID": "hello",
+    "title": "Hello",
+    "artist": "Adele",
+    "album": "25"
+  },
+  "highway_to_hell": {
+    "songID": "highway_to_hell",
+    "title": "Highway to Hell",
+    "artist": "AC/DC",
+    "album": "Highway to Hell"
+  },
+  "innocence": {
+    "songID": "innocence",
+    "title": "Innocence",
+    "artist": "Avril Lavigne",
+    "album": "The Best Damn Thing"
+  },
+  "in_the_end": {
+    "songID": "in_the_end",
+    "title": "In the End",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory"
+  },
+  "its_my_life": {
+    "songID": "its_my_life",
+    "title": "It's My Life",
+    "artist": "Bon Jovi",
+    "album": "Crush"
+  },
+  "let_it_go": {
+    "songID": "let_it_go",
+    "title": "Let It Go",
+    "artist": "Indina Menzel",
+    "album": "Frozen"
+  },
+  "lost_stars": {
+    "songID": "lost_stars",
+    "title": "Lost Stars",
+    "artist": "Adam Levine",
+    "album": "V"
+  },
+  "master": {
+    "songID": "master",
+    "title": "Master of Puppets",
+    "artist": "Metallica",
+    "album": "Master of Puppets"
+  },
+  "happy_ending": {
+    "songID": "happy_ending",
+    "title": "My Happy Ending",
+    "artist": "Avril Lavigne",
+    "album": "Under My Skin"
+  },
+  "rickroll": {
+    "songID": "rickroll",
+    "title": "Never Gonna Give You Up",
+    "artist": "Rick Astley",
+    "album": "Whenever You Need Somebody"
+  },
+  "never_there": {
+    "songID": "never_there",
+    "title": "Never There",
+    "artist": "Sum 41",
+    "album": "Order In Decline"
+  },
+  "new_divide": {
+    "songID": "new_divide",
+    "title": "New Divide",
+    "artist": "Linkin Park",
+    "album": "Transformers: Revenge Of The Fallen The Album"
+  },
+  "nothing_else_matters": {
+    "songID": "nothing_else_matters",
+    "title": "Nothing Else Matters",
+    "artist": "Metallica",
+    "album": "Metallica"
+  },
+  "numb": {
+    "songID": "numb",
+    "title": "Numb",
+    "artist": "Linkin Park",
+    "album": "Meteora"
+  },
+  "paranoid": {
+    "songID": "paranoid",
+    "title": "Paranoid",
+    "artist": "Black Sabbath",
+    "album": "Paranoid"
+  },
+  "perfect": {
+    "songID": "perfect",
+    "title": "Perfect",
+    "artist": "Ed Sheeran",
+    "album": "÷"
+  },
+  "pieces": {
+    "songID": "pieces",
+    "title": "Pieces",
+    "artist": "Sum 41",
+    "album": "Chuck"
+  },
+  "psychosocial": {
+    "songID": "psychosocial",
+    "title": "Psychosocial",
+    "artist": "Slipknot",
+    "album": "All Hope Is Gone"
+  },
+  "radioactive": {
+    "songID": "radioactive",
+    "title": "Radioactive",
+    "artist": "Imagine Dragons",
+    "album": "Night Visions"
+  },
+  "rolling_in_the_deep": {
+    "songID": "rolling_in_the_deep",
+    "title": "Rolling in the Deep",
+    "artist": "Adele",
+    "album": "21"
+  },
+  "scars": {
+    "songID": "scars",
+    "title": "Scars",
+    "artist": "Papa Roach",
+    "album": "Getting Away With Murder"
+  },
+  "shadow": {
+    "songID": "shadow",
+    "title": "Shadow of the Day",
+    "artist": "Linkin Park",
+    "album": "Minutes to Midnight"
+  },
+  "the_trooper": {
+    "songID": "the_trooper",
+    "title": "The Trooper",
+    "artist": "Iron Maiden",
+    "album": "Piece of Mind"
+  },
+  "goodbyes": {
+    "songID": "goodbyes",
+    "title": "Too Good At Goodbyes",
+    "artist": "Sam Smith",
+    "album": "The Thrill Of It All"
+  },
+  "unstoppable": {
+    "songID": "unstoppable",
+    "title": "Unstoppable",
+    "artist": "Sia",
+    "album": "This Is Acting"
+  },
+  "viva": {
+    "songID": "viva",
+    "title": "Viva La Vida",
+    "artist": "Coldplay",
+    "album": "Viva La Vida or Death and All His Friends"
+  },
+  "wait_and_bleed": {
+    "songID": "wait_and_bleed",
+    "title": "Wait and Bleed",
+    "artist": "Slipknot",
+    "album": "Antennas to Hell"
+  },
+  "whatatya": {
+    "songID": "whataya",
+    "title": "Whataya Want from Me",
+    "artist": "Adam Lambert",
+    "album": "For Your Entertainment"
+  },
+  "young_and_beautiful": {
+    "songID": "young_and_beautiful",
+    "title": "Young and Beautiful",
+    "artist": "Lana Del Rey",
+    "album": "Young And Beautiful"
+  }
 }
