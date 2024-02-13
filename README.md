@@ -166,12 +166,13 @@ STATUS: 200 OK
 ### 8) Get All Users
 This admin request retrieves all available users from the users database.\
 This request can be used to check if a new user resource has indeed been created by the request 2) Create User.\
-**Challenge:** This request has a form of authorisation that inpects the request headers.
+**Challenge:** This request has a form of authorisation that inspects the request headers.
 #### Request:
 ```
 GET -h "admin-password: {adminPasword}" http://127.0.0.1:8000/admin/users HTTP/1.1
 ```
-Where the `adminPassword` is `lab2`.
+Where the `adminPassword` is `lab2`.\
+`adminPassword` is a request header.
 #### Expected Response:
 ```
 STATUS: 200 OK
@@ -181,12 +182,13 @@ STATUS: 200 OK
 ### 9) Get All Playlists
 This admin request retrieves all available playlists from the playlists database.\
 This request can be used to check if a new playlist resource has indeed been created by the request 4) Create Playlist.\
-**Challenge:** This request has a form of authorisation that inpects the request headers.
+**Challenge:** This request has a form of authorisation that inspects the request headers.
 #### Request:
 ```
 GET -h "admin-password: {adminPassword}" http://127.0.0.1:8000/admin/playlists HTTP/1.1
 ```
-Where the `adminPassword` is `lab2`.
+Where the `adminPassword` is `lab2`.\
+`adminPassword` is a request header.
 #### Expected Response:
 ```
 STATUS: 200 OK
@@ -194,7 +196,7 @@ STATUS: 200 OK
 ```
 
 ## Idempotent routes in this application
-Idempontent routes are routes that imply that it can be requested many times without changing the result. The following are the rotues that I identified as idempotent:
+Idempotent routes are routes that can be requested many times without changing the result. The following are the routes that I identified as idempotent:
 
 ### 1) Root
 ```
