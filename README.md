@@ -76,7 +76,7 @@ Where `songID` is a string.
 This request creates a new playlist resource and inserts it into the playlists database.
 #### Request:
 ```
-POST http://127.0.0.1:8000//playlists/{userID}/{password}/create HTTP/1.1
+POST http://127.0.0.1:8000/playlists/{userID}/{password}/create HTTP/1.1
 Content-Type: application/json
 
 {
@@ -149,7 +149,7 @@ STATUS: 200 OK
 **Challenge:** This special request batch updates all available playlists of the user `userID` with the provided `songID` in its `songs` attribute, by deleting the `songID`.
 #### Request:
 ```
-PUT http://127.0.0.1:8000/batch_update/playlists/{userID}/{password}?songID={songID} HTTP/1.1
+PUT http://127.0.0.1:8000/batch_update/playlists/{userID}/{password} HTTP/1.1
 Content-Type: application/json
 
 {
