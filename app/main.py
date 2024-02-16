@@ -14,7 +14,7 @@ def root():
     return "A Spotify-like REST API by Lim Fuo En [1005125] for 50.012 - Networks Lab 2"
 
 # create user
-@app.post("/users/create")
+@app.post("/users")
 def create_user(user: User, response: Response):
     user_id = user.userID
     name = user.name
@@ -67,7 +67,7 @@ def retrieve_song(response: Response, sortBy: Optional[str] = None, count: Optio
             return "Please ensure that your count query is more than or equals to 1!"
 
 # create playlist
-@app.post("/playlists/{user_id}/{password}/create")
+@app.post("/playlists/{user_id}/{password}")
 def create_playlist(user_id: str, password: str, playlist: Playlist, response: Response):
     playlist_id = playlist.playlistID
     title = playlist.title

@@ -33,7 +33,7 @@ STATUS: 200 OK
 This request creates a new user resource and inserts it into the users database.
 #### Request:
 ```
-POST http://127.0.0.1:8000/users/create HTTP/1.1
+POST http://127.0.0.1:8000/users HTTP/1.1
 Content-Type: application/json
 
 {
@@ -76,7 +76,7 @@ Where `songID` is a string.
 This request creates a new playlist resource and inserts it into the playlists database.
 #### Request:
 ```
-POST http://127.0.0.1:8000/playlists/{userID}/{password}/create HTTP/1.1
+POST http://127.0.0.1:8000/playlists/{userID}/{password} HTTP/1.1
 Content-Type: application/json
 
 {
