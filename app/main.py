@@ -136,7 +136,7 @@ def retrieve_playlist(user_id: str, playlist_id: str, response: Response):
         if error == 1:
             return f"userID {user_id} is not found! Please enter an existing userID!"
         elif error == 2:
-            return f"playlistID {playlist_id} is not found! Please enter an existing userID!" 
+            return f"playlistID {playlist_id} is not found! Please enter an existing playlistID!" 
         
 # update playlist
 @app.put("/playlists/{user_id}/{password}/{playlist_id}")
