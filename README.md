@@ -12,6 +12,8 @@ This documentation consists of how to build and run my code and how to make HTTP
 ## Setup
 In the root project directory, run `docker compose up` and make sure you get "A Spotify-like REST API by Lim Fuo En [1005125] for 50.012 - Networks Lab 2" by sending a GET request to [http://127.0.0.1:8000](http://127.0.0.1:8000).
 
+You may want to first review the .json files in `./app/data` folder [here](https://github.com/Fe-56/networks_lab2/tree/master/app/data). These .json files contains the initial data in the playlists, songs, and users databases.
+
 ## Making HTTP requests to this API
 I would recommend you to use Postman to send the HTTP request to this REST API. Please use [this link](https://dark-flare-820920.postman.co/workspace/My-Workspace~480f5cea-c01c-44d6-8540-e62907c4f2b6/collection/15698908-c7bb7f73-adee-4a7e-937e-1b8be35058e5?action=share&creator=15698908) to access the Postman collection with all the API endpoints already properly set up and ready for you to modify (the request body and headers of) and send to this REST API.
 
