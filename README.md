@@ -10,7 +10,7 @@ This documentation consists of how to build and run my code and how to make HTTP
 <ins>It also contains a section (all the way at the end) that identifies the idempotent routes in my application.</ins>
 
 ## Setup
-Simply run `docker compose up` and make sure you get "A Spotify-like REST API by Lim Fuo En [1005125] for 50.012 - Networks Lab 2" by sending a GET request to [http://127.0.0.1:8000](http://127.0.0.1:8000).
+In the root project directory, run `docker compose up` and make sure you get "A Spotify-like REST API by Lim Fuo En [1005125] for 50.012 - Networks Lab 2" by sending a GET request to [http://127.0.0.1:8000](http://127.0.0.1:8000).
 
 ## Making HTTP requests to this API
 I would recommend you to use Postman to send the HTTP request to this REST API. Please use [this link](https://dark-flare-820920.postman.co/workspace/My-Workspace~480f5cea-c01c-44d6-8540-e62907c4f2b6/collection/15698908-c7bb7f73-adee-4a7e-937e-1b8be35058e5?action=share&creator=15698908) to access the Postman collection with all the API endpoints already properly set up and ready for you to modify (the request body and headers of) and send to this REST API.
